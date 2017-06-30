@@ -22,7 +22,6 @@ DEVICE_PACKAGE_OVERLAYS += device/bq/maxwellplus/overlay
 # Config files
 PRODUCT_COPY_FILES += \
     device/bq/maxwellplus/config/media_profiles.xml:system/etc/media_profiles.xml 
-   ## device/bq/maxwellplus/config/gsensor.cfg:system/etc/gsensor.cfg
 
 # Rootdir blob
 PRODUCT_COPY_FILES += \
